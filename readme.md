@@ -1,6 +1,7 @@
 # Keypair Management
 
 This repository provides scripts for generating and loading keypairs used in Solana development.
+This code in this repository was developed using the Solana tutorial "Intro to Cryptography": [Solana Tutorial](https://solana.com/pt/developers/courses/intro-to-solana/intro-to-cryptography)
 
 ## Keypair Generation
 
